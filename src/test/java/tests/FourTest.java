@@ -16,7 +16,7 @@ public class FourTest extends base {
 	@Test
 	public void FourTest() throws IOException, InterruptedException
 	{
-		
+		System.out.println("HardWork and Smart work are necessary");
 		System.out.println("Inside four test");
 		
      driver=	intializeDriver();
