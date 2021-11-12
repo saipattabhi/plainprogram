@@ -13,6 +13,8 @@ public class ThreeTest extends base {
 	@Test
 	public void ThreeTest() throws IOException, InterruptedException
 	{
+		
+		System.out.println("Money is ultimate for everything");
 		System.out.println("Inside Three Test");
 		
          driver=intializeDriver();
